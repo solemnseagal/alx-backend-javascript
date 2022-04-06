@@ -1,3 +1,3 @@
-export default function getResponseFromApi() {
-    return new Promise(() => {});
+export default function getResponseFromAPI() {
+  return new Promise(() => {});
 }
