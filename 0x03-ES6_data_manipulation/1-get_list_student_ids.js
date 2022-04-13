@@ -4,7 +4,7 @@
  *   id: Number,
  *   firstName: String,
  *   location: String
- * }[]} students - The list of students.
+ * }[]} stds - The list of students.
  * @returns
  */
 export default function getListStudentIds(stds) {
